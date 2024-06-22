@@ -9,7 +9,7 @@ module.exports = {
     intro: 'Dependent Well is not a brand, it is not a lifestyle, it is the life with Christ.',
     menuLinks: [
       {
-        name: 'Home',
+        name: 'Dependent Well',
         slug: '/',
       },
       {
