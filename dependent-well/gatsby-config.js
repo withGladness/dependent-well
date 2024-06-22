@@ -1,30 +1,26 @@
 module.exports = {
   siteMetadata: {
-    title: 'Dependent Well',
+    title: 'John Doe',
     description:
-      'Dependent Well is not a brand, it is not a lifestyle, it is the life with Christ.',
+      'John Doe is a lifestyle photographer based in San Francisco, CA',
     url: 'https://gatsby-starter-amsterdam.netlify.com',
-    author: 'Dependent Well',
+    author: 'John Doe',
     image: 'https://gatsby-starter-amsterdam.netlify.com/og-image.jpg',
-    intro: 'Dependent Well is not a brand, it is not a lifestyle, it is the life with Christ.',
+    intro: 'John Doe is a lifestyle photographer based in San Francisco, CA',
     menuLinks: [
       {
-        name: 'Home',
+        name: 'John Doe',
         slug: '/',
       },
       {
-        name: 'Tribes',
-        slug: '/tribes/',
-      },
-      {
-        name: 'About',
-        slug: '/about/',
+        name: 'Example Page',
+        slug: '/example/',
       },
     ],
     footerLinks: [
       {
-        name: 'Dependent Well',
-        url: 'https://dependentwell.netlify.com',
+        name: 'Gatsby Theme Amsterdam',
+        url: 'https://github.com/ryanwiemer/gatsby-theme-amsterdam',
       },
     ],
   },

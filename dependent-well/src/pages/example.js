@@ -45,9 +45,8 @@ const Content = styled.div`
 const ExamplePage = ({ data }) => {
   return (
     <Container>
-      <SEO title="Dependent Well" description="Dependent Well is not a brand, it is not a lifestyle, it is the life with Christ.
-The Kingdom of YHWH (God) is advancing in us only when we are living dependent on the Living Independent Well." />
-      <Title>Dependent Well is not a brand, it is not a lifestyle, it is the life with Christ.</Title>
+      <SEO title="Example Page" description="This is just an example page" />
+      <Title>Example Page</Title>
       <Content>
         <p>
           This is just a regular page{' '}
