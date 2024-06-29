@@ -28,16 +28,5 @@ module.exports = {
       },
     ],
   },
-  plugins: [
-    {
-      resolve: 'gatsby-theme-amsterdam',
-      options: {},
-    },
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-       icon: '/favicon.png'
-      },
-    },
-  ],
+  
 }
