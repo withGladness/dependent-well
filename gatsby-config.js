@@ -3,7 +3,7 @@ module.exports = {
     title: 'Dependent Well',
     description:
       'Dependent Well is not a brand, it is not a lifestyle, it is the life with Christ.',
-    url: 'https://gatsby-starter-amsterdam.netlify.com',
+    url: 'https://dependentwell.netlify.app',
     author: 'Dependent Well',
     image: 'https://gatsby-starter-amsterdam.netlify.com/og-image.jpg',
     intro: 'Dependent Well is not a brand, it is not a lifestyle, it is the life with Christ.',
@@ -36,13 +36,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Theme Amsterdam`,
-        short_name: `Amsterdam`,
-        background_color: `#f5f0eb`,
-        theme_color: `#f5f0eb`,
-        start_url: `/`,
-        display: `standalone`,
-        icon: require.resolve('./src/images/favicon.png'),
+       icon: '/favicon.png'
       },
     },
   ],
